@@ -29,7 +29,7 @@ TARGETS = [
         "compiler_version": LINUX_COMPILER_VERSION,
         "compiler_prefix": "aarch64-conda-linux-gnu",
     },
-    {"id": "macos-arm64-min13", "family": "macos", "runner": "macos-15"},
+    {"id": "macos-arm64-min13", "family": "macos", "runner": "macos-26"},
     {"id": "ios-arm64-device-min18", "family": "ios", "runner": "macos-15-intel"},
     {"id": "ios-arm64-simulator-min18", "family": "ios", "runner": "macos-15-intel"},
     {"id": "wasm32-emscripten", "family": "wasm", "runner": "ubuntu-24.04"},
